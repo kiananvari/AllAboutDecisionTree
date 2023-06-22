@@ -26,10 +26,15 @@ Welcome to the All About Decision Trees project! This repository contains implem
 ## Documentation
 
 You can see the description of the implementation method in the following file:
-[Click Me](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Documentation.pdf)
 
 
 ## Results
 
-[Documentation](https://linktodocumentation)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/1.png)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/2.png)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/3.png)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/4.png)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/5.png)
+![App Screenshot](https://github.com/kiananvari/AllAboutDecisionTree/raw/main/Results/6.png)
 
